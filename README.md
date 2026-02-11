@@ -1,2 +1,3 @@
-# DEV_microblogging-app-with-user-accounts-and-public-feed
-Exported from Caffeine project: Microblogging App with User Accounts and Public Feed
+## 
+
+To run app build and run docker image: `docker build -t app . docker run -it --network host app`
